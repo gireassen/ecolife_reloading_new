@@ -1,0 +1,25 @@
+{
+    "pg_data":
+    {
+        "user": "postgres",
+        "ip_addr": "10.10.10.10",
+        "database": "database-name"
+    },
+    
+    "headers":
+    {
+        "Accept": "application/json",
+        "Authorization": "Bearer perm:123-qwe",
+        "Content-Type": "application/json"
+    },
+    
+    "url":  "https://support.site.ru/youtrack/api/admin/projects/",
+    
+    "intance_to_parse": "project-name",
+    
+    "timestamp_from":   1672531200000,
+    
+    "timestamp_to": 1704014677000,
+    
+    "password_pg": "password"
+}
